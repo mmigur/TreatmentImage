@@ -1,0 +1,10 @@
+F:\TreatmentImage\TreatmentImage\TreatmentImage\bin\Debug\TreatmentImage.exe.config
+F:\TreatmentImage\TreatmentImage\TreatmentImage\bin\Debug\TreatmentImage.exe
+F:\TreatmentImage\TreatmentImage\TreatmentImage\bin\Debug\TreatmentImage.pdb
+F:\TreatmentImage\TreatmentImage\TreatmentImage\obj\Debug\TreatmentImage.csprojAssemblyReference.cache
+F:\TreatmentImage\TreatmentImage\TreatmentImage\obj\Debug\TreatmentImage.Form1.resources
+F:\TreatmentImage\TreatmentImage\TreatmentImage\obj\Debug\TreatmentImage.Properties.Resources.resources
+F:\TreatmentImage\TreatmentImage\TreatmentImage\obj\Debug\TreatmentImage.csproj.GenerateResource.cache
+F:\TreatmentImage\TreatmentImage\TreatmentImage\obj\Debug\TreatmentImage.csproj.CoreCompileInputs.cache
+F:\TreatmentImage\TreatmentImage\TreatmentImage\obj\Debug\TreatmentImage.exe
+F:\TreatmentImage\TreatmentImage\TreatmentImage\obj\Debug\TreatmentImage.pdb
